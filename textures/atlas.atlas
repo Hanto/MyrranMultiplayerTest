@@ -1,0 +1,312 @@
+
+atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Estatico_1n
+  rotate: false
+  xy: 1, 169
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+Estatico_0n
+  rotate: false
+  xy: 1, 103
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Estatico_3n
+  rotate: false
+  xy: 66, 169
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Estatico_4n
+  rotate: false
+  xy: 1, 37
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Estatico_5n
+  rotate: false
+  xy: 65, 103
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Estatico_6n
+  rotate: false
+  xy: 130, 169
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+Estatico_2n
+  rotate: false
+  xy: 65, 38
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+Estatico
+  rotate: false
+  xy: 129, 103
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: 7
+BlankEstatico
+  rotate: false
+  xy: 1, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+BlankTile
+  rotate: false
+  xy: 193, 201
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_0n
+  rotate: false
+  xy: 193, 201
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_1n
+  rotate: false
+  xy: 193, 201
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MeteorIcon
+  rotate: false
+  xy: 126, 69
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_10n
+  rotate: false
+  xy: 193, 167
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_11n
+  rotate: false
+  xy: 126, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_12n
+  rotate: false
+  xy: 35, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_13n
+  rotate: false
+  xy: 69, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_14n
+  rotate: false
+  xy: 103, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_2n
+  rotate: false
+  xy: 137, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_3n
+  rotate: false
+  xy: 163, 133
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_4n
+  rotate: false
+  xy: 163, 99
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_5n
+  rotate: false
+  xy: 160, 65
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_6n
+  rotate: false
+  xy: 197, 133
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_7n
+  rotate: false
+  xy: 197, 99
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_8n
+  rotate: false
+  xy: 194, 65
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSet_9n
+  rotate: false
+  xy: 171, 31
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+atlas2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+NPC Sprites/GlowingSpectre
+  rotate: false
+  xy: 1, 261
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+NPC Sprites/GrimReaper
+  rotate: false
+  xy: 1, 131
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+NPC Sprites/Momia
+  rotate: false
+  xy: 1, 1
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+
+atlas3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Player Sprites/Player
+  rotate: false
+  xy: 1, 1
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: -1
+
+atlas4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Spell Icons/Editar
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Spell Icons/Espectro
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Spell Icons/FireBall
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Spell Icons/IceBall
+  rotate: false
+  xy: 103, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Spell Icons/Plantar
+  rotate: false
+  xy: 137, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Spell Icons/PoisonBolt
+  rotate: false
+  xy: 171, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Spell Icons/Renew
+  rotate: false
+  xy: 205, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+atlas5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Spell Sprites/SpellBalls_01n
+  rotate: false
+  xy: 1, 517
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: -1
+Spell Sprites/SpellBalls_02n
+  rotate: false
+  xy: 1, 259
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: -1
+Spell Sprites/SpellBalls_03n
+  rotate: false
+  xy: 387, 517
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: -1
+Spell Sprites/SpellBalls_04n
+  rotate: false
+  xy: 1, 1
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: -1
